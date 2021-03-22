@@ -23,3 +23,7 @@ I have analyzed a Citibike dataset - ridesharing data in Manhattan - and using *
 * Since the peak hours for those weekdays are when people usually leave work (5 - 7pm). 
 * It would be wise to buiild bike stations near office buildings
 * Business should schedule maintenance done on stations and bikes on the weekends in the mornings.
+
+**Here is the link to my Tableau dashboard:**
+
+[link to dashboard](https://public.tableau.com/profile/miles.tsue#!/vizhome/Citibike_Challenge_16162820842160/CitibikeDashboard)
